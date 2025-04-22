@@ -50,7 +50,7 @@ To optimize the performance of the supply chain by enhancing efficiency and redu
  - Routes
     
 ## Data Visualization 
-![data](https://github.com/Ola-ykay/Car-Insurance-Analysis/blob/main/car-insurance%20data.png)
-![Dashboard](https://github.com/Ola-ykay/Car-Insurance-Analysis/blob/main/car-insurance-dashboard.png)
-![Table](https://github.com/Ola-ykay/Car-Insurance-Analysis/blob/main/car-insurance-table.png)
+![data]()
+![Dashboard]()
+![Table]()
 
