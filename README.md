@@ -52,5 +52,5 @@ To optimize the performance of the supply chain by enhancing efficiency and redu
 ## Data Visualization 
 ![Table](https://github.com/Ola-ykay/Supply_Chain/blob/main/Table-supply_chain.png)
 
-![Dashboard]()
+![Dashboard](https://github.com/Ola-ykay/Supply_Chain/blob/main/Dashboard-Supply_chain.png)
 
