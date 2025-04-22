@@ -50,7 +50,7 @@ To optimize the performance of the supply chain by enhancing efficiency and redu
  - Routes
     
 ## Data Visualization 
-![data]()
+![Table](https://github.com/Ola-ykay/Supply_Chain/blob/main/Table-supply_chain.png)
+
 ![Dashboard]()
-![Table]()
 
