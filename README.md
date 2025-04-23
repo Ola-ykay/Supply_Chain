@@ -7,6 +7,7 @@
 - [Tools Used](#tools-used) 
 - [KPIs](#kpis)  
 - [Insights](#insights)
+- [Summary](#summary)
 - [Data Visualization](#data-visualization)
 
 ## Project Overview
@@ -47,6 +48,17 @@ To optimize the performance of the supply chain by enhancing efficiency and redu
 
  Slicers:
  - Routes
+
+ ## Summary
+
+- Skincare generates the highest revenue
+- Skincare also dominates sales volume, contributing 41.83% of total sales.
+- Shipping carriers were evaluated to find the most cost-effective option.
+- Haircare has the highest defect rate, indicating potential issues in production or packaging.
+- Top-performing SKUs and stock level analysis helped spot over/understocked items.
+- Road transport incurred the highest cost  and the highest defect rate (2.62%).
+
+This dashboard supports stakeholders in making data-driven decisions across logistics, inventory, and supplier management.
     
 ## Data Visualization 
 ![Table](https://github.com/Ola-ykay/Supply_Chain/blob/main/Table-supply_chain.png)
